@@ -25,8 +25,10 @@ I've been doing web stuff, IT stuff, and CAD stuff since the 2000s.
 ![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=eee&labelColor=47A248)
 
 ### CADD
+![](https://img.shields.io/badge/-Autodesk_AutoCAD-informational?style=flat&logo=AutoCAD&logoColor=fff&color=white&labelColor=E51050)
 ![](https://img.shields.io/badge/-Autodesk_Inventor-informational?style=flat&logo=Autodesk&logoColor=333&color=white&labelColor=0696D7)
 ![](https://img.shields.io/badge/-3DS_Solidworks-informational?style=flat&logo=dassault-systèmes&logoColor=fff&color=white&labelColor=005386)
+
 
 ### Make
 ![](https://img.shields.io/badge/-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=eee&labelColor=00979D) 
